@@ -1,0 +1,8 @@
+{
+  "name": "Roto-Rooter Smart Assistant",
+  "description": "A sophisticated AI-powered customer service assistant for Roto-Rooter Manhattan, integrated into a high-fidelity website clone.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
